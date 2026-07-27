@@ -1,0 +1,125 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Farhan Ahmed",
+      "class": "Class 9",
+      "section": "A",
+      "roll": 1,
+      "status": "Absent"
+    },
+    {
+      "id": "2",
+      "name": "Nusrat Jahan",
+      "class": "Class 9",
+      "section": "A",
+      "roll": 2,
+      "status": "Absent"
+    },
+    {
+      "id": "3",
+      "name": "Rakibul Hasan",
+      "class": "Class 9",
+      "section": "A",
+      "roll": 3,
+      "status": "Leave"
+    },
+    {
+      "id": "4",
+      "name": "Sadia Islam",
+      "class": "Class 9",
+      "section": "B",
+      "roll": 1,
+      "status": "Present"
+    },
+    {
+      "id": "5",
+      "name": "Mehedi Hossain",
+      "class": "Class 9",
+      "section": "B",
+      "roll": 2,
+      "status": "Present"
+    },
+    {
+      "id": "6",
+      "name": "Tasnia Akter",
+      "class": "Class 9",
+      "section": "B",
+      "roll": 3,
+      "status": "Absent"
+    },
+    {
+      "id": "7",
+      "name": "Imran Khan",
+      "class": "Class 9",
+      "section": "A",
+      "roll": 4,
+      "status": "Leave"
+    },
+    {
+      "id": "8",
+      "name": "Lamia Sultana",
+      "class": "Class 10",
+      "section": "A",
+      "roll": 1,
+      "status": "Present"
+    },
+    {
+      "id": "9",
+      "name": "Jubayer Rahman",
+      "class": "Class 10",
+      "section": "A",
+      "roll": 2,
+      "status": "Present"
+    },
+    {
+      "id": "10",
+      "name": "Riya Chowdhury",
+      "class": "Class 10",
+      "section": "A",
+      "roll": 3,
+      "status": "Absent"
+    },
+    {
+      "id": "11",
+      "name": "Shahriar Kabir",
+      "class": "Class 10",
+      "section": "B",
+      "roll": 1,
+      "status": "Leave"
+    },
+    {
+      "id": "12",
+      "name": "Anika Mahmud",
+      "class": "Class 10",
+      "section": "B",
+      "roll": 2,
+      "status": "Present"
+    },
+    {
+      "id": "13",
+      "name": "Tanvir Hossain",
+      "class": "Class 10",
+      "section": "B",
+      "roll": 3,
+      "status": "Absent"
+    },
+    {
+      "id": "14",
+      "name": "Mithila Akter",
+      "class": "Class 10",
+      "section": "A",
+      "roll": 4,
+      "status": "Present"
+    },
+    {
+      "id": "15",
+      "name": "Rifat Hasan",
+      "class": "Class 10",
+      "section": "B",
+      "roll": 4,
+      "status": "Leave"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
